@@ -1,0 +1,11 @@
+provider_id,provider_name,npi,specialty,subspecialty,institution,city,state,est_annual_patients,primary_cancer_types,current_testing_vendor,current_panels,territory,last_contact_date,relationship_stage
+P001,Dr. Sarah Chen,1234567001,Medical Oncology,Breast Cancer,Memorial Regional Medical Center,Chicago,IL,320,"breast,ovarian",Foundation Medicine,FoundationOne CDx,Midwest-1,2025-12-02,warm
+P002,Dr. Raj Patel,1234567002,Medical Oncology,Thoracic/Lung,Lakeview Cancer Institute,Chicago,IL,280,"NSCLC,SCLC",Guardant Health,Guardant360,Midwest-1,2025-10-18,warm
+P003,Dr. Emily Kim,1234567003,Medical Oncology,GI/Colorectal,Northwest Community Hospital,Arlington Heights,IL,190,"colorectal,pancreatic",None,,Midwest-1,2025-09-05,cold
+P004,Dr. Carlos Rodriguez,1234567004,Medical Oncology,GI/Hepatobiliary,Rush University Medical Center,Chicago,IL,150,"pancreatic,cholangiocarcinoma,gastric",Caris Life Sciences,Caris Molecular Intelligence,Midwest-1,2025-11-20,warm
+P005,Dr. Aisha Thompson,1234567005,Hematology-Oncology,Hematologic Malignancies,University of Chicago Medicine,Chicago,IL,210,"AML,MDS,lymphoma",Tempus,xT CDx,Midwest-1,2025-12-10,active
+P006,Dr. James O'Brien,1234567006,Medical Oncology,Breast Cancer,Advocate Christ Medical Center,Oak Lawn,IL,180,"breast,ovarian",None,,Midwest-1,2025-08-12,cold
+P007,Dr. Mei-Lin Zhao,1234567007,Medical Oncology,Thoracic/Lung,Northwestern Memorial Hospital,Chicago,IL,420,"NSCLC,mesothelioma",Tempus,xT CDx,Midwest-1,2025-12-15,active
+P008,Dr. David Nakamura,1234567008,Surgical Oncology,Urologic,Edward-Elmhurst Health,Naperville,IL,95,"prostate,renal,bladder",None,,Midwest-1,2025-07-22,cold
+P009,Dr. Lisa Petrov,1234567009,Medical Oncology,Neuro-Oncology,Loyola University Medical Center,Maywood,IL,75,"glioblastoma,brain",Foundation Medicine,FoundationOne CDx,Midwest-1,2025-11-01,warm
+P010,Dr. Marcus Williams,1234567010,Medical Oncology,GI/Colorectal,NorthShore University HealthSystem,Evanston,IL,230,"colorectal,gastric,esophageal",Guardant Health,Guardant360,Midwest-1,2025-10-30,warm

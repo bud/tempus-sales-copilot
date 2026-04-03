@@ -1,0 +1,137 @@
+{
+  "P001": {
+    "provider_name": "Dr. Sarah Chen",
+    "notes": [
+      {
+        "date": "2025-11-15",
+        "author": "Mike Torres",
+        "text": "Met Dr. Chen at ASCO regional meeting. She runs a high-volume breast cancer practice at Memorial Regional. Currently using FoundationOne CDx but expressed frustration with turnaround times — says she's waited 3+ weeks on several cases recently. Very interested in hereditary testing for her BRCA population but worried about insurance coverage for community hospital patients. Asked about our financial assistance program. Engaged and warm — definite follow-up opportunity."
+      },
+      {
+        "date": "2025-12-02",
+        "author": "Mike Torres",
+        "text": "Phone follow-up. Dr. Chen confirmed she's evaluating alternatives to Foundation Medicine. Wants to see a direct comparison of xT CDx vs F1CDx for breast cancer — specifically around PIK3CA and ESR1 detection, and the tumor-normal matched approach. She also asked if we offer bundled hereditary + somatic testing. Mentioned she's presenting at a tumor board next month and would appreciate any case studies."
+      }
+    ]
+  },
+  "P002": {
+    "provider_name": "Dr. Raj Patel",
+    "notes": [
+      {
+        "date": "2025-08-22",
+        "author": "Mike Torres",
+        "text": "Initial outreach to Dr. Patel at Lakeview Cancer Institute. Large thoracic oncology practice, ~280 NSCLC patients/year. Currently using Guardant360 for liquid biopsy but does NOT have a solid tumor NGS provider — sends tissue to hospital pathology for limited IHC panels only. Major gap in comprehensive genomic profiling for his tissue specimens."
+      },
+      {
+        "date": "2025-10-18",
+        "author": "Mike Torres",
+        "text": "Second meeting at Lakeview. Dr. Patel's main concern is turnaround time — his patients often need to start treatment quickly and he can't wait 3 weeks for results. Also concerned about the logistics of specimen handling and shipping for tissue samples. Interested in the xT + xF combo approach but wants to understand the auto-reflex workflow better. Asked about our ALK and ROS1 fusion detection rates compared to FISH."
+      }
+    ]
+  },
+  "P003": {
+    "provider_name": "Dr. Emily Kim",
+    "notes": [
+      {
+        "date": "2025-09-05",
+        "author": "Mike Torres",
+        "text": "Cold outreach at Northwest Community. Dr. Kim is a GI oncologist handling colorectal and pancreatic cases. Currently not using any external genomic testing — relies entirely on hospital pathology for MSI/MMR testing and sends out for KRAS only when needed. Big opportunity to introduce comprehensive profiling. She seemed skeptical about the clinical utility beyond what she already orders. Needs education on how broader panels change treatment decisions."
+      }
+    ]
+  },
+  "P004": {
+    "provider_name": "Dr. Carlos Rodriguez",
+    "notes": [
+      {
+        "date": "2025-10-05",
+        "author": "Mike Torres",
+        "text": "Dr. Rodriguez at Rush is a tough sell. Uses Caris Molecular Intelligence and seems satisfied with the platform. However, he mentioned that Caris doesn't offer RNA sequencing as part of their standard workflow, and he's had cases where he suspects fusions are being missed in his cholangiocarcinoma patients. That's our opening — xR RNA sequencing."
+      },
+      {
+        "date": "2025-11-20",
+        "author": "Mike Torres",
+        "text": "Follow-up call. Rodriguez is warming up. He had two cholangio patients where Caris came back with no actionable findings, but clinically he suspects FGFR fusions. Asked if Tempus xR would have caught these. I shared the published data showing RNA sequencing detects fusions missed by DNA-only panels. He wants a lunch-and-learn for his tumor board. Scheduling for January."
+      }
+    ]
+  },
+  "P005": {
+    "provider_name": "Dr. Aisha Thompson",
+    "notes": [
+      {
+        "date": "2025-10-30",
+        "author": "Mike Torres",
+        "text": "Dr. Thompson is an existing Tempus customer — she orders FoundationOne Heme for her AML/MDS patients but has been exploring xT for her solid tumor referrals. She's very data-driven and wants to see head-to-head analytical validation data. Currently sends ~50 solid tumor cases to Foundation annually."
+      },
+      {
+        "date": "2025-12-10",
+        "author": "Mike Torres",
+        "text": "Great meeting with Dr. Thompson at UChicago. She's now ordering xT for solid tumor cases and is very happy with the reports. Wants to discuss xM MRD monitoring for her AML patients post-treatment. Also interested in our clinical trial matching — she has multiple patients who've exhausted standard options. This is a growth account — she could double her Tempus volume if we land the heme + MRD business."
+      }
+    ]
+  },
+  "P006": {
+    "provider_name": "Dr. James O'Brien",
+    "notes": [
+      {
+        "date": "2025-08-12",
+        "author": "Mike Torres",
+        "text": "Brief intro at Advocate Christ. Dr. O'Brien is a breast oncologist with a mid-size practice. Currently not using any comprehensive genomic profiling — relies on Oncotype DX for ER+ breast cancer and limited IHC. Doesn't seem to understand the value of broader panel testing for metastatic breast cancer. Very busy, hard to get time with. His nurse navigator, Maria, might be a better initial contact. He mentioned cost is a big concern for his patient population."
+      }
+    ]
+  },
+  "P007": {
+    "provider_name": "Dr. Mei-Lin Zhao",
+    "notes": [
+      {
+        "date": "2025-11-05",
+        "author": "Mike Torres",
+        "text": "Quarterly check-in with Dr. Zhao at Northwestern. She's our champion there — ordering xT CDx consistently for all her NSCLC patients. Volume is strong (~420 patients/year across her team). She asked about expanding to xF liquid biopsy for monitoring resistance mutations in her patients on osimertinib. Also interested in our PD-L1 IHC add-on to reduce separate send-outs."
+      },
+      {
+        "date": "2025-12-15",
+        "author": "Mike Torres",
+        "text": "Dr. Zhao wants to set up a departmental presentation about liquid biopsy for treatment monitoring. She's also asked if Tempus can provide data on T790M resistance mutation detection rates with xF vs. tissue rebiopsy. Potential to expand her account significantly with xF adoption across the thoracic team. She mentioned a new colleague, Dr. Park, joining in February who also does lung — warm intro coming."
+      }
+    ]
+  },
+  "P008": {
+    "provider_name": "Dr. David Nakamura",
+    "notes": [
+      {
+        "date": "2025-07-22",
+        "author": "Mike Torres",
+        "text": "Met Dr. Nakamura at a urology conference. He's a surgical oncologist — doesn't order genomic testing himself but refers patients to medical oncology colleagues who do. Lower direct testing volume but could be an influence pathway. He was curious about hereditary testing for prostate cancer families — his practice sees a lot of BRCA-related prostate cases. Mentioned his medical oncology partner Dr. Singh handles the genomic testing decisions."
+      }
+    ]
+  },
+  "P009": {
+    "provider_name": "Dr. Lisa Petrov",
+    "notes": [
+      {
+        "date": "2025-09-15",
+        "author": "Mike Torres",
+        "text": "Dr. Petrov at Loyola specializes in neuro-oncology — primarily GBM and high-grade gliomas. Small volume (~75 patients/year) but high complexity. Currently using FoundationOne CDx. Her main complaint is that F1CDx doesn't include MGMT promoter methylation status, which is critical for her treatment decisions in GBM. She has to order that separately."
+      },
+      {
+        "date": "2025-11-01",
+        "author": "Mike Torres",
+        "text": "Follow-up with Dr. Petrov. Confirmed that Tempus xR includes MGMT promoter methylation analysis as an add-on — this is a major differentiator for her practice. She's interested but wants to understand the concordance with her current methylation-specific PCR method. Also asked about IDH1/2 mutation detection sensitivity. Scheduling a call with our medical science liaison."
+      }
+    ]
+  },
+  "P010": {
+    "provider_name": "Dr. Marcus Williams",
+    "notes": [
+      {
+        "date": "2025-09-12",
+        "author": "Mike Torres",
+        "text": "Dr. Williams at NorthShore has a large GI practice — colorectal is his bread and butter but also handles gastric and esophageal. Currently uses Guardant360 for liquid biopsy in his metastatic CRC patients to monitor for RAS/RAF mutations during anti-EGFR therapy. Doesn't have a tissue-based NGS relationship."
+      },
+      {
+        "date": "2025-10-30",
+        "author": "Mike Torres",
+        "text": "Good meeting with Dr. Williams. He's interested in xT CDx as a companion diagnostic for his CRC patients — specifically because of the FDA-approved CDx claims for CRC. He wants to understand the MSI testing methodology (genome-wide vs. traditional 5-marker) and how it compares to his current IHC workflow. Also asked about PurIST for his pancreatic cancer referrals. Cost is a secondary concern — he's more focused on clinical evidence and workflow integration with his EHR."
+      }
+    ]
+  }
+}
