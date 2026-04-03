@@ -6,20 +6,31 @@ An AI-powered meeting preparation tool for Tempus oncology sales reps. Synthesiz
 
 ---
 
+## Slide Deck
+
+[View the presentation on Google Slides](https://docs.google.com/presentation/d/1juwuy3q4PJFQ6_FgPxBYubpWmXOdifdX/)
+
+---
+
 ## How to Access the Prototype
 
 ### Prerequisites
 
-- Python 3.10 or higher
-- pip (Python package manager)
+- [Python 3.10+](https://www.python.org/downloads/)
+- pip (included with Python)
 
 ### Setup and Run
 
 ```bash
-git clone https://github.com/harishgovardhan/tempus-sales-copilot.git
+# 1. Clone the repo
+git clone https://github.com/bud/tempus-sales-copilot.git
 cd tempus-sales-copilot
+
+# 2. Install dependencies
 pip install -r requirements.txt
-streamlit run app.py
+
+# 3. Run the app
+python -m streamlit run app.py
 ```
 
 The app opens automatically at **http://localhost:8501** in your browser.
